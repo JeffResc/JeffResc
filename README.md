@@ -1,7 +1,7 @@
 ### Hey, I'm Jeff 👋
 I'm a Full-Time Computer Science Student at [Clarkson University](https://clarkson.edu). I enjoy writing code in [Node.js](https://nodejs.org/), but I am expanding into learning C++ and Java.
 
-[![Website](https://img.shields.io/website?label=JeffResc.dev&style=for-the-badge&url=https%3A%2F%2JeffResc.dev)](https://JeffResc.dev)
+[![Website](https://img.shields.io/uptimerobot/status/m785965921-7f6aa2a46ecc47d78117eeb9?label=www.JeffResc.dev&style=for-the-badge)](https://JeffResc.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JeffRescignano?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJeffResc&screen_name=JeffRescignano)
 
 [![JeffResc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffResc&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
