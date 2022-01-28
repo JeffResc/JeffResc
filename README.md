@@ -1,6 +1,9 @@
 ### Hey, I'm Jeff 👋
 I'm a Full-Time Computer Science Student at [Clarkson University](https://clarkson.edu).
 
+If you'd like to get in contact with me, please email me at [my first name]@[my github username].dev, but please do not contact me about any archived repositories.
+If you have an issue with an active project, the best way to notify me about it and get help is by creating an issue on the repository of the project.
+
 [![Website](https://img.shields.io/uptimerobot/status/m785965921-7f6aa2a46ecc47d78117eeb9?label=www.JeffResc.dev&style=for-the-badge)](https://JeffResc.dev)
 
 [![JeffResc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffResc&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
