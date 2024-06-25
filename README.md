@@ -1,5 +1,7 @@
 ### Hey, I'm Jeff 👋
-If you'd like to get in contact with me, please email me at [my first name]@[my github username].dev, but please do not contact me about any archived repositories.
+I'm a Cloud, Infrastructure, DevSecOps Engineer!
+
+If you'd like to get in contact with me, please email me at [my first name]@[my github username].dev.
 
 If you have an issue with an active project, the best way to notify me about it and get help is by creating an issue on the repository of the project.
 
