@@ -1,5 +1,5 @@
 ### Hey, I'm Jeff 👋
-I'm a Cloud, Infrastructure, DevSecOps Engineer!
+I'm a DevSecOps Engineer @ 🦄 Defense Unicorns!
 
 If you'd like to get in contact with me, please email me at [my first name]@[my github username].dev.
 
